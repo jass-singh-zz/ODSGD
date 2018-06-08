@@ -9,7 +9,10 @@ It includes sample input and output (*images with applied Smudgy effect*) images
 
 ## Procedure 
 
-1. 
+- List Main Menu (*MAIN_GUI.m*)
 
+- List Train Model (*TrainModel_GUI.m*)
+
+- List Test Model (*TestModel_GUI.m*)
 
 ![Image alt attribute](https://github.com/jass-singh/ODSGD/blob/master/Screen%20Shots/1%20Ori.JPG)
