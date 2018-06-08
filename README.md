@@ -11,7 +11,10 @@ It includes sample input and output (*images with applied Smudgy effect*) images
 
 1. Main Menu (*MAIN_GUI.m*)
    ![Image alt attribute](https://github.com/jass-singh/ODSGD/blob/master/Screen%20Shots/Menu.jpg)
+
+
 2. Train Model (*TrainModel_GUI.m*)
+
    ![Image alt attribute](https://github.com/jass-singh/ODSGD/blob/master/Screen%20Shots/Train1.png)
    Start Training  
 
@@ -21,7 +24,9 @@ It includes sample input and output (*images with applied Smudgy effect*) images
    ![Image alt attribute](https://github.com/jass-singh/ODSGD/blob/master/Screen%20Shots/Train3.jpg)
    Model Trained
 
+
 3. Test Model (*TestModel_GUI.m*)
+
    ![Image alt attribute](https://github.com/jass-singh/ODSGD/blob/master/Screen%20Shots/Test1.png)
    Start Testing
 
@@ -29,36 +34,46 @@ It includes sample input and output (*images with applied Smudgy effect*) images
    Model Tested
 
 4. Apply DSLR/Smudgy Effect (*Apply_DSRL_effect_GUI.m*)
+
    ![Image alt attribute](https://github.com/jass-singh/ODSGD/blob/master/Screen%20Shots/Apply1.png)
    Select Source Image and apply
 
    ![Image alt attribute](https://github.com/jass-singh/ODSGD/blob/master/Screen%20Shots/Apply2.jpg)
    Effect Applied 
 
+
 ## Sample Outputs
 
-###Original 
+### Original 
+
    ![Image alt attribute](https://github.com/jass-singh/ODSGD/blob/master/Screen%20Shots/1%Ori.JPG)
 
-###Smudgy Image as Output
+### Smudgy Image as Output
+
    ![Image alt attribute](https://github.com/jass-singh/ODSGD/blob/master/Screen%20Shots/1%Smu.png)
 
-###Original 
+### Original 
+
    ![Image alt attribute](https://github.com/jass-singh/ODSGD/blob/master/Screen%20Shots/2%Ori.jpg)
 
-###Smudgy Image as Output
+### Smudgy Image as Output
+
    ![Image alt attribute](https://github.com/jass-singh/ODSGD/blob/master/Screen%20Shots/2%Smu.jpg)
 
-###Original 
+### Original 
+
    ![Image alt attribute](https://github.com/jass-singh/ODSGD/blob/master/Screen%20Shots/3%Ori.jpg)
 
-###Smudgy Image as Output
+### Smudgy Image as Output
+
    ![Image alt attribute](https://github.com/jass-singh/ODSGD/blob/master/Screen%20Shots/3%Smu.png)
 
-###Original 
+### Original 
+
    ![Image alt attribute](https://github.com/jass-singh/ODSGD/blob/master/Screen%20Shots/4%Ori.jpg)
 
-###Smudgy Image as Output
+### Smudgy Image as Output
+
    ![Image alt attribute](https://github.com/jass-singh/ODSGD/blob/master/Screen%20Shots/4%Smu.png)
 
 
