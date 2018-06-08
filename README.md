@@ -13,3 +13,4 @@ It includes sample input and output (*images with applied Smudgy effect*) images
 
 
 
+[yo yo honey singh](https://github.com/jass-singh/ODSGD/blob/master/Screen%20Shots/1%20Ori.JPG)
