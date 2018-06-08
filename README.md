@@ -7,7 +7,9 @@ Object Detection and Smudging using Gradient Descent
 This repository contains code for GUI and screenshots reagarding working of project.
 It includes sample input and output (*images with applied Smudgy effect*) images.
 
+## Procedure 
 
+1. 
 
 
 
